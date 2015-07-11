@@ -8,4 +8,4 @@ In short, you can run "vagrant up" and the environment will spin up already conf
 
 # Topology
 First, here’s the topology we’ll be working with.
-![alt tag](https://raw.github.com/ipv1337/ossrouting/master/images/oss_routing_lab.png)
+![alt tag](https://raw.githubusercontent.com/ipv1337/ossrouting/update/README/images/oss_routing_lab.png)
